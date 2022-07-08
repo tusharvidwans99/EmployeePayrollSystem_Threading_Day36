@@ -54,6 +54,24 @@ namespace EmployeePayrollSystemThreading
                 Console.WriteLine("Employee added" + employeeData.EmployeeName);
             });
         }
+
+
+
+        public void addEmployeeToPayrollDataBaseWithThread(List<EmployeeDetails> employeePayrollDataList)
+        {
+            employeePayrollDataList.ForEach(employeeData =>
+            {
+                Task thread = new Task(() =>
+                {
+                    Console.WriteLine("Employee being added" + employeeData.EmployeeName);
+                    this.addEmployeePayrollDatabase(employeeData);
+                    Console.WriteLine("Employee added" + employeeData.EmployeeName);
+                });
+                thread.Start();
+            });
+        }
+
+
         public void addEmployeePayrollDatabase(EmployeeDetails employeeDetails)
         {
             SqlCommand command = new SqlCommand("spInsertData", connection);
