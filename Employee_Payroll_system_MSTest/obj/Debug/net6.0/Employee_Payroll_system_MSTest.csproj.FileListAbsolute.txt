@@ -108,3 +108,5 @@ C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\Employee_Payroll_syst
 C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\Employee_Payroll_system_MSTest\obj\Debug\net6.0\Employee_Payroll_system_MSTest.pdb
 C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\Employee_Payroll_system_MSTest\obj\Debug\net6.0\Employee_Payroll_system_MSTest.genruntimeconfig.cache
 C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\Employee_Payroll_system_MSTest\obj\Debug\net6.0\ref\Employee_Payroll_system_MSTest.dll
+C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\Employee_Payroll_system_MSTest\bin\Debug\net6.0\NLog.config
+C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\Employee_Payroll_system_MSTest\bin\Debug\net6.0\NLog.dll

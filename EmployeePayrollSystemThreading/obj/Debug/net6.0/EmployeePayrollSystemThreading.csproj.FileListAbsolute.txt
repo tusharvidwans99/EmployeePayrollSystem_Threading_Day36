@@ -20,3 +20,5 @@ C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\EmployeePayrollSystem
 C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\EmployeePayrollSystemThreading\obj\Debug\net6.0\EmployeePayrollSystemThreading.pdb
 C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\EmployeePayrollSystemThreading\obj\Debug\net6.0\EmployeePayrollSystemThreading.genruntimeconfig.cache
 C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\EmployeePayrollSystemThreading\obj\Debug\net6.0\ref\EmployeePayrollSystemThreading.dll
+C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\EmployeePayrollSystemThreading\bin\Debug\net6.0\NLog.config
+C:\Users\tusha\source\repos\EmployeePayrollSystemThreading\EmployeePayrollSystemThreading\bin\Debug\net6.0\NLog.dll

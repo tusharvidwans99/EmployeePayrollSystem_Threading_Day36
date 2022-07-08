@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iGg4AfKp9Uf8kIP6d06H8OlxcWE4+D4IngO4KCGS5b9Aa8ibSxAyHdlEI6Bndw5L2nTzLO61W50w6lvW+hr/EQ==",
+  "dgSpecHash": "A0A/vJ6mqlKsYmzj9JAnsYBDewoy4FOixkh/GlT9Kr/iNnf4RiMF0rGhDlA1/9dZsPDYuZzlPzXW+HDQbZ/xWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\tusha\\source\\repos\\EmployeePayrollSystemThreading\\EmployeePayrollSystemThreading\\EmployeePayrollSystemThreading.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tusha\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\tusha\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\tusha\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512",
+    "C:\\Users\\tusha\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\tusha\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512",
     "C:\\Users\\tusha\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\tusha\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\tusha\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

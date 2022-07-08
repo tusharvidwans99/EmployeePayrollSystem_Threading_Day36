@@ -1,0 +1,110 @@
+2022-07-08 23:46:51.8585|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Bruce :addEmployeeToPayroll()||ThreadID: 4
+2022-07-08 23:46:51.8628|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 4
+2022-07-08 23:46:51.8628|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Lee :addEmployeeToPayroll()||ThreadID: 4
+2022-07-08 23:46:51.8628|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 4
+2022-07-08 23:46:51.8628|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Sachin :addEmployeeToPayroll()||ThreadID: 4
+2022-07-08 23:46:51.8628|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 4
+2022-07-08 23:46:51.8628|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Tendulkar :addEmployeeToPayroll()||ThreadID: 4
+2022-07-08 23:46:51.8628|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 4
+2022-07-08 23:46:51.8628|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Mahendar :addEmployeeToPayroll()||ThreadID: 4
+2022-07-08 23:46:51.8628|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 4
+2022-07-08 23:46:51.8628|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Singh :addEmployeeToPayroll()||ThreadID: 4
+2022-07-08 23:46:51.8628|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 4
+2022-07-08 23:46:51.8628|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Dhoni :addEmployeeToPayroll()||ThreadID: 4
+2022-07-08 23:46:51.8628|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 4
+2022-07-08 23:46:51.8628|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Vishal :addEmployeeToPayroll()||ThreadID: 4
+2022-07-08 23:46:51.8628|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 4
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Starting Of thread:4
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Starting Of thread:4
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Starting Of thread:4
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Starting Of thread:4
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Starting Of thread:4
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee :addEmployeeToPayrollWithThread()||ThreadID: 9
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee :addEmployeeToPayrollWithThread()||ThreadID: 11
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Starting Of thread:4
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Starting Of thread:4
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Starting Of thread:4
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee :addEmployeeToPayrollWithThread()||ThreadID: 16
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee :addEmployeeToPayrollWithThread()||ThreadID: 15
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee :addEmployeeToPayrollWithThread()||ThreadID: 17
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee :addEmployeeToPayrollWithThread()||ThreadID: 14
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee :addEmployeeToPayrollWithThread()||ThreadID: 18
+2022-07-08 23:47:06.0552|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayrollWithThread() ||ThreadId: 16
+2022-07-08 23:47:06.0552|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayrollWithThread() ||ThreadId: 11
+2022-07-08 23:47:06.0552|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayrollWithThread() ||ThreadId: 9
+2022-07-08 23:47:06.0552|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayrollWithThread() ||ThreadId: 15
+2022-07-08 23:47:06.0552|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee :addEmployeeToPayrollWithThread()||ThreadID: 15
+2022-07-08 23:47:06.0552|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayrollWithThread() ||ThreadId: 15
+2022-07-08 23:47:06.0552|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayrollWithThread() ||ThreadId: 14
+2022-07-08 23:47:06.0552|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayrollWithThread() ||ThreadId: 18
+2022-07-08 23:47:06.0552|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayrollWithThread() ||ThreadId: 17
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Starting of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|adding Employee to Database- Bruce:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|added Employee to Database- Bruce:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Starting of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|adding Employee to Database- Lee:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|added Employee to Database- Lee:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Starting of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|adding Employee to Database- Sachin:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|added Employee to Database- Sachin:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Starting of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|adding Employee to Database- Tendulkar:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|added Employee to Database- Tendulkar:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Starting of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|adding Employee to Database- Mahendar:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|added Employee to Database- Mahendar:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Starting of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|adding Employee to Database- Singh:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|added Employee to Database- Singh:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId10
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Starting of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|adding Employee to Database- Dhoni:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|added Employee to Database- Dhoni:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Starting of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|adding Employee to Database- Vishal:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|added Employee to Database- Vishal:addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2022-07-08 23:47:24.1485|DEBUG|EmployeePayrollSystemThreading.NLog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2022-07-08 23:47:35.0057|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Bruce :addEmployeeToPayrollDataBase()||ThreadID: 4
+2022-07-08 23:47:42.8100|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee:Bruce :addEmployeeToPayrollDatabaseWithThread()||ThreadID: 14
+2022-07-08 23:48:24.6643|DEBUG|EmployeePayrollSystemThreading.NLog|Starting of synchronized Thread using Mutex : addEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId9
+2022-07-08 23:48:24.6643|DEBUG|EmployeePayrollSystemThreading.NLog|adding Employee to Database- Bruce:addEmployeeToPayrollDataBaseWithThreadWithSynchronization|| ThreadId9
+2022-07-08 23:48:42.6843|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Bruce :addEmployeeToPayroll()||ThreadID: 14
+2022-07-08 23:48:42.6843|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Bruce :addEmployeeToPayroll()||ThreadID: 15
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 14
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Lee :addEmployeeToPayroll()||ThreadID: 14
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 14
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Sachin :addEmployeeToPayroll()||ThreadID: 14
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 14
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Tendulkar :addEmployeeToPayroll()||ThreadID: 14
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 14
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Mahendar :addEmployeeToPayroll()||ThreadID: 14
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 14
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Singh :addEmployeeToPayroll()||ThreadID: 14
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 14
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Dhoni :addEmployeeToPayroll()||ThreadID: 14
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 14
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Vishal :addEmployeeToPayroll()||ThreadID: 14
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 14
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 15
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Lee :addEmployeeToPayroll()||ThreadID: 15
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 15
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Sachin :addEmployeeToPayroll()||ThreadID: 15
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 15
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Tendulkar :addEmployeeToPayroll()||ThreadID: 15
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 15
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Mahendar :addEmployeeToPayroll()||ThreadID: 15
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 15
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Singh :addEmployeeToPayroll()||ThreadID: 15
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 15
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Dhoni :addEmployeeToPayroll()||ThreadID: 15
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 15
+2022-07-08 23:48:42.6881|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Vishal :addEmployeeToPayroll()||ThreadID: 15
+2022-07-08 23:48:42.6881|INFO|EmployeePayrollSystemThreading.NLog|Employee Successfully added in List: addEmployeeToPayroll() ||ThreadId: 15
+2022-07-08 23:49:05.6402|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Bruce :addEmployeeToPayrollDataBase()||ThreadID: 14
+2022-07-08 23:49:05.6402|DEBUG|EmployeePayrollSystemThreading.NLog|Adding of Employee: Bruce :addEmployeeToPayrollDataBase()||ThreadID: 15
