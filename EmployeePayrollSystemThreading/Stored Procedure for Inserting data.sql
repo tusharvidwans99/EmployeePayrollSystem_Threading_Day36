@@ -1,6 +1,6 @@
 use payroll;
 
-create procedure spInsertData
+alter procedure spInsertData
 (
 @EmployeeId int,
 @EmployeeName varchar(50),
@@ -19,9 +19,9 @@ create procedure spInsertData
 
 
 as
+select * from EmployeePayroll;
 begin 
 insert into EmployeePayroll 
 values(@EmployeeId,@EmployeeName,@PhoneNumber,@Address,@Department,@Gender,@BasicPay,@Deductions,@TaxablePay,@Tax,@NetPay,@City,@Country);
 end
 
-select * from EmployeePayroll;
